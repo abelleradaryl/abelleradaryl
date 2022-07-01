@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Daryl Abellera 👋
+- 🔭 I’m currently working on finishing my education on Full Stack Web Development.
+- 🌱 I’m currently learning Bloomtech Institute of Technology.
+- 💬 Ask me about anything.
+- 📫 How to reach me: 
+        Email: abelleradaryl@gmail.com 
+        Slack: abelleradaryl
+- ⚡ Fun fact:  ‘’Knowledge is limited.  Imagination encircles the world.’’ - Albert Einstein 
 
 <!--
 **abelleradaryl/abelleradaryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
