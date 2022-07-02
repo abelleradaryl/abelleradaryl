@@ -1,6 +1,6 @@
 ### Hi there, I'm Daryl Abellera 👋
-- 🔭 I’m currently working on finishing my education on Full Stack Web Development.
-- 🌱 I’m currently learning Bloomtech Institute of Technology.
+- 🔭 I’m currently working full time and finishing my education on Full Stack Web Development.
+- 🌱 I’m currently learning at Bloomtech Institute of Technology.
 - 💬 Ask me about anything.
 - 📫 How to reach me: 
         Email: abelleradaryl@gmail.com 
